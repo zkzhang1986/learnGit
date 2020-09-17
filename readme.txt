@@ -5,4 +5,6 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 master and fetch1
 add merge
-add fix bug.
+add fix bug(issue-102).
+Fix bugs(issue-101).
+
